@@ -1,0 +1,2 @@
+# Site-Edutech
+Olá, me chamo Andressa Gomes Onofre tenho 16 anos e sou aluna do Programa Edutech, da professora Thaiane Machado! Este é o meu desafio final, para criá-lo utilizei HTML, CSS, e BOOTSTRAP. Ele já está adaptado para Mobile, até porque a maior parte dos usuários navegam na internet através dos smartphones. Coloquei em prática tudo que aprendi durante esses meses na plataforma Alura, que por sinal é uma plataforma muito completa e organizada! Obrigada ao Programa Edutech por todo esse aprendizado.  
